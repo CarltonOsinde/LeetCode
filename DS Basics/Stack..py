@@ -3,8 +3,6 @@
 
 #lAST IN, FIRST OUT (LIFO)
 
-
-
 stack = []
 
 stack.append(3)
