@@ -12,7 +12,7 @@
 class Recursion {
     public static void main(String[] args){
         Recursion r1 = new Recursion();
-        var results  = r1.factorial(0);
+        var results  = r1.factorial(4);
         System.out.println(results);
     }
 
