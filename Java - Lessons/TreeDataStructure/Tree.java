@@ -1,4 +1,6 @@
-public class Main {
+package TreeDataStructure;
+
+public class Tree {
 
 public static void main (String args[]){
 

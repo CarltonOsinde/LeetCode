@@ -1,4 +1,6 @@
- import java.util.ArrayList;
+package TreeDataStructure;
+
+import java.util.ArrayList;
 
 public class TreeNode {
     String data;
