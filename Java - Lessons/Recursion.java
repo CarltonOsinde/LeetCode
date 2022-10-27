@@ -8,7 +8,7 @@
 2. Has a Base condition that allows it to exit from an infinite loop
 */
 
-//Writing a Recursion method using Factorial
+//Writing a Recursion method to calculate the Factorial of a number 
 class Recursion {
     public static void main(String[] args){
         Recursion r1 = new Recursion();
